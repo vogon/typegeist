@@ -291,7 +291,7 @@ def graphvize(g, mode, n, sigma_0)
 
     gvg.graph[:bgcolor] = "#656565"
 
-    gvg.node[:fontname] = "Segoe UI Bold"
+    gvg.node[:fontname] = "Comic Sans"
     gvg.node[:fontsize] = 16
     gvg.node[:shape] = "plaintext"
     gvg.node[:penwidth] = 3
